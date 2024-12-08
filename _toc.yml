@@ -7,3 +7,4 @@ parts:
   - caption: Tugas UTS
     chapters:
       - file: tugas_uts/main
+      - file: tugas_baru/main
